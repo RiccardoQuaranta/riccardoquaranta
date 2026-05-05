@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Educazione Civica - Risorse Umane</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<header>
+    <h1>Gestione delle Risorse Umane</h1>
+    <p>Percorso interdisciplinare di Educazione Civica</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="italiano.html">Italiano</a></li>
+        <li><a href="inglese.html">Inglese</a></li>
+        <li><a href="storia.html">Storia</a></li>
+        <li><a href="tps.html">TPS/GPO</a></li>
+        <li><a href="sistemi.html">Sistemi e Reti</a></li>
+        <li><a href="informatica.html">Informatica</a></li>
+        <li><a href="religione.html">Religione</a></li>
+        <li><a href="educazione_fisica.html">Educazione Fisica</a></li>
+        <li><a href="matematica.html">Matematica</a></li>
+    </ul>
+</nav>
+
+<main>
+    <h2>Introduzione</h2>
+    <p>
+        La gestione delle risorse umane riguarda l'organizzazione, la valorizzazione
+        e il benessere delle persone all'interno di un'azienda o organizzazione.
+    </p>
+</main>
+
+<footer>
+    <p>© 2026 - Progetto scolastico</p>
+</footer>
+
+</body>
+</html>
